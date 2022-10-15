@@ -7,7 +7,7 @@
 ataagultekin/ataagultekin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E<img src="https://github-profile-trophy.vercel.app/?username=ataagultekin" alt="ataagultekin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E<img src="https://github-profile-trophy.vercel.app/?username="ataagultekin" alt="ataagultekin" /></a> </p>
     
 <p align="center">
     <a href="https://github.com/ataagultekin%22%3E
